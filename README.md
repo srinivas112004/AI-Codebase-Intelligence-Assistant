@@ -10,7 +10,7 @@
 [![Google Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
 [![Tests Passing](https://img.shields.io/badge/Tests-35%20Passed-emerald.svg)](backend/tests/)
 
-An interview-ready, full-stack AI system that deeply understands Python codebases through **native AST parsing**, **symbol-boundary chunking**, **Sentence Transformers (`all-MiniLM-L6-v2`)**, **persistent ChromaDB vector storage**, **grounded RAG via Google Gemini**, an educational **PyTorch Self-Attention Laboratory**, and automated **Bandit SAST security scanning**.
+A full-stack AI system that deeply understands Python codebases through **native AST parsing**, **symbol-boundary chunking**, **Sentence Transformers (`all-MiniLM-L6-v2`)**, **persistent ChromaDB vector storage**, **grounded RAG via Google Gemini**, an educational **PyTorch Self-Attention Laboratory**, and automated **Bandit SAST security scanning**.
 
 Zero external microservices, Docker, or Kubernetes required—everything runs locally on standard CPU hardware with SQLite and ChromaDB.
 
